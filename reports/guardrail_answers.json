@@ -1,0 +1,1088 @@
+{
+ "baseline": [
+  {
+   "id": "u01",
+   "kind": "off_topic",
+   "split": "dev",
+   "question": "What is the capital of Australia?",
+   "score": 0.47034794092178345,
+   "answer": "The provided context does not mention the capital of Australia. It appears to be a collection of technical documents related to power plants and machinery, including guidelines for maintenance and operation of turbines and pumps. There is no information about Australia or its capital.",
+   "unsupported": false
+  },
+  {
+   "id": "u02",
+   "kind": "off_topic",
+   "split": "dev",
+   "question": "How do I bake sourdough bread at home?",
+   "score": 0.516069769859314,
+   "answer": "The provided context does not mention baking sourdough bread at home. It appears to be a technical manual related to electrical equipment maintenance, specifically dealing with SF6 gas and neutralizing solutions for hazardous waste. Therefore, I won't be able to provide an answer to the question about baking sourdough bread at home. If you'd like, I can help with a different question or topic.",
+   "unsupported": false
+  },
+  {
+   "id": "u03",
+   "kind": "off_topic",
+   "split": "dev",
+   "question": "Who won the 2018 FIFA World Cup?",
+   "score": 0.43901753425598145,
+   "answer": "The context provided does not mention the 2018 FIFA World Cup or any information related to it. It appears to be a collection of excerpts from technical manuals or guidelines related to electrical breakers and maintenance procedures. Therefore, I cannot provide an answer to the question.",
+   "unsupported": false
+  },
+  {
+   "id": "u04",
+   "kind": "off_topic",
+   "split": "dev",
+   "question": "What is the best way to learn Spanish quickly?",
+   "score": 0.47111016511917114,
+   "answer": "The context provided does not mention anything about learning Spanish quickly. It appears to be a technical document related to electrical circuit breakers and SF6 gas, and does not provide any information on language learning.",
+   "unsupported": false
+  },
+  {
+   "id": "u05",
+   "kind": "off_topic",
+   "split": "test",
+   "question": "Explain how vaccines train the immune system.",
+   "score": 0.5518956184387207,
+   "answer": "The provided context does not relate to vaccines or the immune system. It appears to be a technical document discussing electrical systems, relays, and testing procedures for power plants. Therefore, I am unable to provide an answer to the question about how vaccines train the immune system.",
+   "unsupported": false
+  },
+  {
+   "id": "u06",
+   "kind": "off_topic",
+   "split": "test",
+   "question": "What is the plot of Shakespeare's Hamlet?",
+   "score": 0.4428822100162506,
+   "answer": "There is no context about Shakespeare's Hamlet in the provided text. The text appears to be about vibration analysis and pump maintenance, specifically from a military or technical manual (FIST 4-1A).",
+   "unsupported": true
+  },
+  {
+   "id": "u07",
+   "kind": "off_topic",
+   "split": "test",
+   "question": "How many calories are in a banana?",
+   "score": 0.4896188974380493,
+   "answer": "There is no information about bananas or their calorie content in the provided context. The text appears to be related to guidelines and procedures for handling and transporting SF6 gas, as well as performing inspections and maintenance on electrical equipment.",
+   "unsupported": false
+  },
+  {
+   "id": "u08",
+   "kind": "off_topic",
+   "split": "test",
+   "question": "How do I reset the network settings on my smartphone?",
+   "score": 0.5671946406364441,
+   "answer": "The provided context does not mention resetting network settings on a smartphone. It appears to be a document related to electrical power systems and protective relay settings. Therefore, I do not have an answer to the question.",
+   "unsupported": false
+  },
+  {
+   "id": "u09",
+   "kind": "off_topic",
+   "split": "dev",
+   "question": "What is the boiling point of ethanol?",
+   "score": 0.5780230760574341,
+   "answer": "The context does not mention the boiling point of ethanol. It appears to be a collection of excerpts from various documents related to oil testing and maintenance, but there is no information about ethanol.",
+   "unsupported": false
+  },
+  {
+   "id": "u10",
+   "kind": "off_topic",
+   "split": "test",
+   "question": "Which laptop should I buy for video editing?",
+   "score": 0.4770398437976837,
+   "answer": "The provided context does not mention anything about laptops or video editing. It appears to be a technical guide for testing and verifying the functionality of cameras and digital/network video recorders (DVR/NVR) in a security system. Therefore, I cannot provide a recommendation for a laptop to buy for video editing based on the given context.",
+   "unsupported": false
+  },
+  {
+   "id": "u11",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the recommended oil change interval for a Caterpillar C15 diesel engine?",
+   "score": 0.6547186970710754,
+   "answer": "Unfortunately, the provided context does not mention the Caterpillar C15 diesel engine specifically, nor does it provide information on the recommended oil change interval for any engine. The context appears to be related to maintenance procedures for a system or equipment, but it does not provide information on engine-specific maintenance schedules.\n\nHowever, it does mention that if oil tests are not performed, the oil should be filtered annually (from FIST 4-1A, p.82). This suggests that regular oil changes and maintenance are important, but it does not provide a specific interval for a Caterpillar C15 diesel engine.\n\nFor accurate information on the recommended oil change interval for a Caterpillar C15 diesel engine, I would recommend consulting the Caterpillar engine manual or contacting a Caterpillar representative.",
+   "unsupported": false
+  },
+  {
+   "id": "u12",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "How do I clear fault code E-24 on a Siemens 3AP1 circuit breaker?",
+   "score": 0.6830952167510986,
+   "answer": "Unfortunately, the provided context does not mention anything about clearing fault code E-24 on a Siemens 3AP1 circuit breaker. The context appears to be a maintenance manual for a specific type of circuit breaker, but it does not include troubleshooting or repair instructions for specific fault codes.\n\nIf you need help clearing fault code E-24 on a Siemens 3AP1 circuit breaker, I recommend consulting the official Siemens documentation or contacting a Siemens support specialist for assistance.",
+   "unsupported": false
+  },
+  {
+   "id": "u13",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What torque should be used on the cylinder head bolts of a Kohler 60 kW generator?",
+   "score": 0.6280103325843811,
+   "answer": "Unfortunately, the provided text does not mention the torque specification for the cylinder head bolts of a Kohler 60 kW generator. The text appears to be a set of guidelines for the installation and maintenance of electrical equipment, specifically generators and motors, and does not provide specific torque values for cylinder head bolts.\n\nHowever, it does mention that \"Torque to manufacturer\u2019s recommendations\" in the context of installing an eyebolt (FIST 4-1A, p.178). This suggests that the manufacturer's recommendations should be followed for torque specifications.",
+   "unsupported": false
+  },
+  {
+   "id": "u14",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the rated energy capacity of a Tesla Megapack battery?",
+   "score": 0.58820641040802,
+   "answer": "The provided context does not mention the rated energy capacity of a Tesla Megapack battery. It appears to be a maintenance schedule for various electrical equipment, including batteries, but it does not contain information about the specific capacity of a Tesla Megapack battery.",
+   "unsupported": false
+  },
+  {
+   "id": "u15",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How often should wind turbine blades be inspected for lightning damage?",
+   "score": 0.706828236579895,
+   "answer": "Unfortunately, there is no information in the provided context about wind turbine blades or lightning damage inspections. The context appears to be related to crane inspections and maintenance, specifically referencing the FIST (Facility Inspection, Testing, and Maintenance Standard) guidelines.",
+   "unsupported": false
+  },
+  {
+   "id": "u16",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the correct tire pressure for a pneumatic forklift tire?",
+   "score": 0.62871915102005,
+   "answer": "The provided context does not mention tire pressure for a pneumatic forklift tire. It appears to be a collection of excerpts from various documents (FIST) related to maintenance and inspection of industrial equipment, specifically pumps, transformers, and actuators. There is no information about tire pressure in the given context.",
+   "unsupported": false
+  },
+  {
+   "id": "u17",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the maximum operating pressure of a Grundfos CR 32 pump?",
+   "score": 0.6539347171783447,
+   "answer": "The context does not provide information about the maximum operating pressure of a Grundfos CR 32 pump. It appears to be a manual or guide for the alignment and operation of pumps, but it does not mention specific pump models or their operating parameters.",
+   "unsupported": false
+  },
+  {
+   "id": "u18",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "How do I calibrate an ABB REL670 distance relay?",
+   "score": 0.7027921676635742,
+   "answer": "Unfortunately, the provided context does not specifically mention the calibration procedure for an ABB REL670 distance relay. However, based on the general information provided in the context, it appears that calibration of distance relays, including the ABB REL670, may require resetting the taps or dials to other than specified values to calibrate properly.\n\nTo calibrate an ABB REL670 distance relay, you may need to refer to the manufacturer's test procedure, which is not provided in the context. It is recommended to consult the ABB REL670 user manual or contact ABB directly for specific calibration instructions.\n\nAdditionally, you may need to use a calibrated multimeter or similar device to verify the accuracy of the relay test set, as mentioned in FIST 4-1B, p.161.",
+   "unsupported": false
+  },
+  {
+   "id": "u19",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What gap should the spark plug of a Honda EU7000 generator have?",
+   "score": 0.634919285774231,
+   "answer": "The provided context does not mention the spark plug gap for a Honda EU7000 generator. It appears to be a maintenance guide for various types of generators and equipment, but it does not specifically address the spark plug gap for a Honda EU7000 generator.",
+   "unsupported": false
+  },
+  {
+   "id": "u20",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How do I replace the filter cartridge on an Atlas Copco GA 37 compressor?",
+   "score": 0.6492299437522888,
+   "answer": "Unfortunately, the provided context does not specifically mention the Atlas Copco GA 37 compressor or provide instructions on how to replace the filter cartridge on that particular model. However, it does provide general information on filter maintenance and replacement for compressors in general.\n\nIf you need specific instructions for the Atlas Copco GA 37 compressor, I would recommend consulting the operation and maintenance manuals for that specific model, which are likely to be available from the manufacturer or through online resources.",
+   "unsupported": true
+  },
+  {
+   "id": "u21",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What is the trip curve of a Square D QO molded case circuit breaker?",
+   "score": 0.6889197826385498,
+   "answer": "The provided context does not mention the trip curve of a Square D QO molded case circuit breaker. However, it does mention that values for inverse-time trip are given in the manufacturer's O&M manual or Table 3-1, which outlines current and trip-time values as recommended by NEMA.",
+   "unsupported": false
+  },
+  {
+   "id": "u22",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What are the recommended settings for a GE Multilin 489 generator protection relay?",
+   "score": 0.7216662168502808,
+   "answer": "Unfortunately, the provided context does not mention the recommended settings for a GE Multilin 489 generator protection relay. The context appears to be a general guide for protective relaying, including references to various standards and publications, but it does not specifically address the settings for a GE Multilin 489 relay.\n\nHowever, it does mention that relay settings should be derived from system fault and load studies, and that initial settings are provided when relays are installed or replaced. It also emphasizes the importance of evaluating and updating relay settings on a regular basis, such as every 5 years, to ensure that they remain appropriate for the changing electrical power system.",
+   "unsupported": false
+  },
+  {
+   "id": "u23",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the coolant capacity of a Cummins QSK50 engine?",
+   "score": 0.6256605386734009,
+   "answer": "The provided context does not mention the Cummins QSK50 engine or its coolant capacity. It appears to be a collection of references to various sections of a document (FIST 3-16 and FIST 4-1A) that discuss topics such as SF6 gas analysis, insulation resistance tests, and equipment maintenance, but does not include any information about the Cummins QSK50 engine.",
+   "unsupported": false
+  },
+  {
+   "id": "u24",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "How do I update the firmware on an SEL-751 feeder protection relay?",
+   "score": 0.6919101476669312,
+   "answer": "Unfortunately, the provided context does not directly address how to update the firmware on an SEL-751 feeder protection relay. However, it does provide some general information on relay testing and settings management.\n\nTo update the firmware on an SEL-751 feeder protection relay, you may need to refer to the manufacturer's documentation or contact the manufacturer directly. The provided context mentions that facilities may obtain support and upgrades from the manufacturer, Enoserv, by purchasing a software key (dongle) and contacting the Relay Users Group at 303-445-2300 or by email at relay_help@usbr.gov.\n\nIt's also worth noting that the context mentions downloading a copy of the as-found settings to a secure location before testing, which may be relevant to firmware updates, but it does not provide specific instructions on how to update the firmware.\n\nTo get the most accurate and up-to-date information on updating the firmware on an SEL-751 feeder protection relay, I would recommend contacting the manufacturer, SEL, directly or referring to their official documentation and support resources.",
+   "unsupported": false
+  },
+  {
+   "id": "u25",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How long should the closing spring of a Westinghouse DB-50 breaker take to charge?",
+   "score": 0.6490476727485657,
+   "answer": "Unfortunately, the provided context does not mention the specific time it should take for the closing spring of a Westinghouse DB-50 breaker to charge. The context appears to be related to maintenance schedules and procedures for various types of circuit breakers, but it does not provide information on the charging time of the closing spring for a specific breaker model.\n\nHowever, Figure 2-2 in the context, which is labeled \"Breaker close-open-close timing\", might be relevant to the question. But without more specific information, it's not possible to determine the exact time it should take for the closing spring of a Westinghouse DB-50 breaker to charge.",
+   "unsupported": false
+  },
+  {
+   "id": "u26",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the rated voltage of an ABB VD4 vacuum circuit breaker?",
+   "score": 0.7472026944160461,
+   "answer": "The context does not mention the rated voltage of an ABB VD4 vacuum circuit breaker. It only provides information about the Watt-Loss values of various vacuum circuit breakers, including the GE VB1, Siemens-Allis SDV, and Siemens-Allis FCV, but does not mention the ABB VD4.",
+   "unsupported": false
+  },
+  {
+   "id": "u27",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How do I precharge a Parker bladder hydraulic accumulator with nitrogen?",
+   "score": 0.6246615648269653,
+   "answer": "Unfortunately, the provided context does not mention how to precharge a Parker bladder hydraulic accumulator with nitrogen. The context appears to be related to maintenance and inspection procedures for various systems, but it does not include information on precharging a hydraulic accumulator.\n\nIf you need assistance with precharging a Parker bladder hydraulic accumulator with nitrogen, I recommend consulting the manufacturer's instructions or a qualified professional with experience in hydraulic systems.",
+   "unsupported": false
+  },
+  {
+   "id": "u28",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "How much oil does a Hitachi 2500 kVA transformer hold?",
+   "score": 0.6335200667381287,
+   "answer": "The provided context does not mention the Hitachi 2500 kVA transformer's oil capacity. It discusses maintenance schedules and testing procedures for oil-filled power transformers, but it does not provide specific information about the oil capacity of a particular transformer model.",
+   "unsupported": false
+  },
+  {
+   "id": "u29",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the maximum allowable shaft runout in mils for a Kaplan turbine?",
+   "score": 0.6809988021850586,
+   "answer": "Unfortunately, the provided context does not mention the maximum allowable shaft runout for a Kaplan turbine. However, it does mention that for small pumps, the total indicated runout should not exceed 0.003 inch (which is equivalent to 60 mils) on page 59 of FIST 4-1A.\n\nSince the context does not provide specific information about the Kaplan turbine, I cannot provide a precise answer to the question.",
+   "unsupported": false
+  },
+  {
+   "id": "u30",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How do I program the speed reference on an Allen-Bradley PowerFlex 755 drive?",
+   "score": 0.6232497692108154,
+   "answer": "The provided context does not mention anything about programming the speed reference on an Allen-Bradley PowerFlex 755 drive. The context appears to be related to a mechanical measurement and alignment procedure for a pump and motor system, using dial indicators to measure shaft alignment and bar sag. It does not provide information on programming a drive.",
+   "unsupported": false
+  },
+  {
+   "id": "u31",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the recommended storage temperature for lithium-ion UPS batteries?",
+   "score": 0.651370108127594,
+   "answer": "There is no information in the provided context about the recommended storage temperature for lithium-ion UPS batteries. The context appears to be related to maintenance and testing procedures for vented (NiCd) batteries, but it does not mention lithium-ion batteries or their storage temperature requirements.",
+   "unsupported": false
+  },
+  {
+   "id": "u32",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What is the relief valve set pressure on an Ingersoll Rand 2545 compressor?",
+   "score": 0.736589789390564,
+   "answer": "Unfortunately, the provided context does not mention the specific requirements for an Ingersoll Rand 2545 compressor. However, it does provide general guidelines for setting the relief valve pressure.\n\nAccording to the context, the relief valve set pressure should not exceed the Maximum Allowable Working Pressure (MAWP) of the pressure retaining item by more than 10 percent. However, the specific MAWP of the Ingersoll Rand 2545 compressor is not provided in the context.\n\nTo determine the relief valve set pressure for an Ingersoll Rand 2545 compressor, you would need to consult the compressor's documentation or contact the manufacturer directly for the MAWP value.",
+   "unsupported": false
+  },
+  {
+   "id": "u33",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How do I replace the main contacts on a Schneider Masterpact NW breaker?",
+   "score": 0.7158223390579224,
+   "answer": "Unfortunately, the provided context does not mention replacing the main contacts on a Schneider Masterpact NW breaker. The context appears to be a maintenance guide for electrical breakers, specifically focusing on inspection and repair tasks, but it does not include instructions for replacing main contacts.\n\nIf you need assistance with replacing main contacts on a Schneider Masterpact NW breaker, I recommend consulting the official Schneider Electric documentation or contacting their technical support for guidance.",
+   "unsupported": false
+  },
+  {
+   "id": "u34",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the SF6 density alarm pressure for a Mitsubishi 245 kV gas insulated switchgear?",
+   "score": 0.7301638722419739,
+   "answer": "Unfortunately, the provided context does not specify the SF6 density alarm pressure for a Mitsubishi 245 kV gas insulated switchgear. The context mentions calibration of pressure meters and switches, but it does not provide specific values for different types of equipment, including the Mitsubishi 245 kV gas insulated switchgear.\n\nHowever, it does mention that the calibration of pressure meters and switches should be done according to the manufacturer's requirements. Therefore, the answer would be to consult the manufacturer's documentation for the specific SF6 density alarm pressure for the Mitsubishi 245 kV gas insulated switchgear.",
+   "unsupported": false
+  },
+  {
+   "id": "u35",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How many years does a Trojan T-105 flooded battery usually last?",
+   "score": 0.6828245520591736,
+   "answer": "According to the context, the Trojan T-105 flooded battery is a type of lead-acid battery. The FIST 4-1B document states that tests should be performed every 5 years for flooded, lead-acid batteries with a capacity of greater than 90% and less than 20 years old.\n\nTherefore, the answer is: 20 years.",
+   "unsupported": true
+  },
+  {
+   "id": "u36",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How do I troubleshoot hunting in a Woodward UG-8 governor?",
+   "score": 0.6208415031433105,
+   "answer": "Unfortunately, the provided context does not directly address troubleshooting hunting in a Woodward UG-8 governor. However, it does provide some general maintenance tasks and schedules for various components of the governor.\n\nTo troubleshoot hunting in a Woodward UG-8 governor, you may want to refer to the specific troubleshooting procedures outlined in the Woodward UG-8 governor's manual or other relevant documentation. If you don't have access to the manual, you can try the following general steps:\n\n1. Check the governor's calibration and settings to ensure they are correct.\n2. Inspect the governor's components, such as the ball head, dashpot, and bearings, for any signs of wear or damage.\n3. Check the governor's oil levels and condition to ensure they are adequate.\n4. Look for any loose or stuck parts that may be causing the governor to hunt.\n5. Check the governor's vibration levels and adjust or replace the ball head motor as necessary.\n\nIt's also a good idea to consult with a qualified technician or the manufacturer's support team for specific guidance on troubleshooting hunting in a Woodward UG-8 governor.",
+   "unsupported": false
+  },
+  {
+   "id": "u37",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What are the weekly maintenance tasks for an Otis Gen2 elevator?",
+   "score": 0.7135878205299377,
+   "answer": "The provided text does not mention the specific maintenance tasks for an Otis Gen2 elevator. It appears to be a general guide for the maintenance of elevators, but it does not provide information on the specific maintenance requirements for a particular model of elevator, such as the Otis Gen2.\n\nHowever, it does provide general guidelines for determining maintenance intervals, which include:\n\n* Manufacturer's recommendations\n* Frequency of use\n* Severity of equipment loading\n* Age and wear of the equipment\n* Operating environment\n* Inherent quality of the equipment\n\nIt also lists some general maintenance tasks, such as:\n\n* Checking the oil level in the car and counterweight oil buffers\n* Checking the car telephone and alarm operations\n* Repairing the alarm system if required\n* Checking the operation of the limit and safety switches in hoistway and car\n* Checking the motor brushes and commutators\n\nBut it does not provide specific information on the maintenance tasks for an Otis Gen2 elevator.",
+   "unsupported": false
+  },
+  {
+   "id": "u38",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What is the maximum ground grid resistance allowed for a 500 kV substation?",
+   "score": 0.6889060139656067,
+   "answer": "Unfortunately, the provided context does not mention the maximum ground grid resistance allowed for a 500 kV substation. The context appears to be related to testing and maintenance procedures for circuit breakers and relays, and does not provide specific information on ground grid resistance.\n\nHowever, I can suggest that you may need to consult a different document or source for the specific information on maximum ground grid resistance allowed for a 500 kV substation.",
+   "unsupported": false
+  },
+  {
+   "id": "u39",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What NLGI grease grade is required for turbine guide bearings?",
+   "score": 0.704198956489563,
+   "answer": "Unfortunately, the provided context does not mention the specific NLGI grease grade required for turbine guide bearings. The text discusses the general requirements for greases in wicket gate greasing systems and other underwater applications, but it does not specify a particular NLGI grade for turbine guide bearings.\n\nHowever, it does mention that the grease should be pumpable, water-resistant, and have extreme pressure characteristics, as well as being somewhat adhesive. It also mentions that the consistency of the grease should be thin enough to be pumped through the grease lines but thick enough to stay in the bearings once it is there.\n\nIf you need to determine the specific NLGI grease grade required for turbine guide bearings, I recommend consulting the manufacturer's recommendations or industry standards, such as the API or ISO standards.",
+   "unsupported": false
+  },
+  {
+   "id": "u40",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What is the required arc flash PPE category for racking in a 15 kV breaker?",
+   "score": 0.7089838981628418,
+   "answer": "Unfortunately, the provided context does not directly answer the question about the required arc flash PPE category for racking in a 15 kV breaker. However, it does provide information about the procedures for performing an Arc Flash Hazard Analysis, which is related to determining the required arc flash PPE category.\n\nTo determine the required arc flash PPE category, you would typically need to perform an Arc Flash Hazard Analysis, which involves calculating the incident energy at the working distance for a specific breaker. This calculation would depend on various factors, including the breaker's rating, the system's configuration, and the type of equipment being used.\n\nSince the context provided does not include specific information about the arc flash PPE category for racking in a 15 kV breaker, I would recommend consulting the relevant standards, such as NFPA 70E, or seeking guidance from a qualified electrical engineer or safety professional.",
+   "unsupported": false
+  }
+ ],
+ "prompt_only": [
+  {
+   "id": "u01",
+   "kind": "off_topic",
+   "split": "dev",
+   "question": "What is the capital of Australia?",
+   "score": 0.47034794092178345,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u02",
+   "kind": "off_topic",
+   "split": "dev",
+   "question": "How do I bake sourdough bread at home?",
+   "score": 0.516069769859314,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u03",
+   "kind": "off_topic",
+   "split": "dev",
+   "question": "Who won the 2018 FIFA World Cup?",
+   "score": 0.43901753425598145,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u04",
+   "kind": "off_topic",
+   "split": "dev",
+   "question": "What is the best way to learn Spanish quickly?",
+   "score": 0.47111016511917114,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u05",
+   "kind": "off_topic",
+   "split": "test",
+   "question": "Explain how vaccines train the immune system.",
+   "score": 0.5518956184387207,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u06",
+   "kind": "off_topic",
+   "split": "test",
+   "question": "What is the plot of Shakespeare's Hamlet?",
+   "score": 0.4428822100162506,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u07",
+   "kind": "off_topic",
+   "split": "test",
+   "question": "How many calories are in a banana?",
+   "score": 0.4896188974380493,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u08",
+   "kind": "off_topic",
+   "split": "test",
+   "question": "How do I reset the network settings on my smartphone?",
+   "score": 0.5671946406364441,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u09",
+   "kind": "off_topic",
+   "split": "dev",
+   "question": "What is the boiling point of ethanol?",
+   "score": 0.5780230760574341,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u10",
+   "kind": "off_topic",
+   "split": "test",
+   "question": "Which laptop should I buy for video editing?",
+   "score": 0.4770398437976837,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u11",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the recommended oil change interval for a Caterpillar C15 diesel engine?",
+   "score": 0.6547186970710754,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u12",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "How do I clear fault code E-24 on a Siemens 3AP1 circuit breaker?",
+   "score": 0.6830952167510986,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u13",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What torque should be used on the cylinder head bolts of a Kohler 60 kW generator?",
+   "score": 0.6280103325843811,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u14",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the rated energy capacity of a Tesla Megapack battery?",
+   "score": 0.58820641040802,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u15",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How often should wind turbine blades be inspected for lightning damage?",
+   "score": 0.706828236579895,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u16",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the correct tire pressure for a pneumatic forklift tire?",
+   "score": 0.62871915102005,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u17",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the maximum operating pressure of a Grundfos CR 32 pump?",
+   "score": 0.6539347171783447,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u18",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "How do I calibrate an ABB REL670 distance relay?",
+   "score": 0.7027921676635742,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u19",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What gap should the spark plug of a Honda EU7000 generator have?",
+   "score": 0.634919285774231,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u20",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How do I replace the filter cartridge on an Atlas Copco GA 37 compressor?",
+   "score": 0.6492299437522888,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u21",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What is the trip curve of a Square D QO molded case circuit breaker?",
+   "score": 0.6889197826385498,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u22",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What are the recommended settings for a GE Multilin 489 generator protection relay?",
+   "score": 0.7216662168502808,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u23",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the coolant capacity of a Cummins QSK50 engine?",
+   "score": 0.6256605386734009,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u24",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "How do I update the firmware on an SEL-751 feeder protection relay?",
+   "score": 0.6919101476669312,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u25",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How long should the closing spring of a Westinghouse DB-50 breaker take to charge?",
+   "score": 0.6490476727485657,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u26",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the rated voltage of an ABB VD4 vacuum circuit breaker?",
+   "score": 0.7472026944160461,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u27",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How do I precharge a Parker bladder hydraulic accumulator with nitrogen?",
+   "score": 0.6246615648269653,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u28",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "How much oil does a Hitachi 2500 kVA transformer hold?",
+   "score": 0.6335200667381287,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u29",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the maximum allowable shaft runout in mils for a Kaplan turbine?",
+   "score": 0.6809988021850586,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u30",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How do I program the speed reference on an Allen-Bradley PowerFlex 755 drive?",
+   "score": 0.6232497692108154,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u31",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the recommended storage temperature for lithium-ion UPS batteries?",
+   "score": 0.651370108127594,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u32",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What is the relief valve set pressure on an Ingersoll Rand 2545 compressor?",
+   "score": 0.736589789390564,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u33",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How do I replace the main contacts on a Schneider Masterpact NW breaker?",
+   "score": 0.7158223390579224,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u34",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the SF6 density alarm pressure for a Mitsubishi 245 kV gas insulated switchgear?",
+   "score": 0.7301638722419739,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u35",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How many years does a Trojan T-105 flooded battery usually last?",
+   "score": 0.6828245520591736,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u36",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How do I troubleshoot hunting in a Woodward UG-8 governor?",
+   "score": 0.6208415031433105,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u37",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What are the weekly maintenance tasks for an Otis Gen2 elevator?",
+   "score": 0.7135878205299377,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u38",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What is the maximum ground grid resistance allowed for a 500 kV substation?",
+   "score": 0.6889060139656067,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u39",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What NLGI grease grade is required for turbine guide bearings?",
+   "score": 0.704198956489563,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u40",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What is the required arc flash PPE category for racking in a 15 kV breaker?",
+   "score": 0.7089838981628418,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  }
+ ],
+ "prompt_and_gate": [
+  {
+   "id": "u01",
+   "kind": "off_topic",
+   "split": "dev",
+   "question": "What is the capital of Australia?",
+   "score": 0.47034794092178345,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u02",
+   "kind": "off_topic",
+   "split": "dev",
+   "question": "How do I bake sourdough bread at home?",
+   "score": 0.516069769859314,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u03",
+   "kind": "off_topic",
+   "split": "dev",
+   "question": "Who won the 2018 FIFA World Cup?",
+   "score": 0.43901753425598145,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u04",
+   "kind": "off_topic",
+   "split": "dev",
+   "question": "What is the best way to learn Spanish quickly?",
+   "score": 0.47111016511917114,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u05",
+   "kind": "off_topic",
+   "split": "test",
+   "question": "Explain how vaccines train the immune system.",
+   "score": 0.5518956184387207,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u06",
+   "kind": "off_topic",
+   "split": "test",
+   "question": "What is the plot of Shakespeare's Hamlet?",
+   "score": 0.4428822100162506,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u07",
+   "kind": "off_topic",
+   "split": "test",
+   "question": "How many calories are in a banana?",
+   "score": 0.4896188974380493,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u08",
+   "kind": "off_topic",
+   "split": "test",
+   "question": "How do I reset the network settings on my smartphone?",
+   "score": 0.5671946406364441,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u09",
+   "kind": "off_topic",
+   "split": "dev",
+   "question": "What is the boiling point of ethanol?",
+   "score": 0.5780230760574341,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u10",
+   "kind": "off_topic",
+   "split": "test",
+   "question": "Which laptop should I buy for video editing?",
+   "score": 0.4770398437976837,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u11",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the recommended oil change interval for a Caterpillar C15 diesel engine?",
+   "score": 0.6547186970710754,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u12",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "How do I clear fault code E-24 on a Siemens 3AP1 circuit breaker?",
+   "score": 0.6830952167510986,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u13",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What torque should be used on the cylinder head bolts of a Kohler 60 kW generator?",
+   "score": 0.6280103325843811,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u14",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the rated energy capacity of a Tesla Megapack battery?",
+   "score": 0.58820641040802,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u15",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How often should wind turbine blades be inspected for lightning damage?",
+   "score": 0.706828236579895,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u16",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the correct tire pressure for a pneumatic forklift tire?",
+   "score": 0.62871915102005,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u17",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the maximum operating pressure of a Grundfos CR 32 pump?",
+   "score": 0.6539347171783447,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u18",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "How do I calibrate an ABB REL670 distance relay?",
+   "score": 0.7027921676635742,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u19",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What gap should the spark plug of a Honda EU7000 generator have?",
+   "score": 0.634919285774231,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u20",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How do I replace the filter cartridge on an Atlas Copco GA 37 compressor?",
+   "score": 0.6492299437522888,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u21",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What is the trip curve of a Square D QO molded case circuit breaker?",
+   "score": 0.6889197826385498,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u22",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What are the recommended settings for a GE Multilin 489 generator protection relay?",
+   "score": 0.7216662168502808,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u23",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the coolant capacity of a Cummins QSK50 engine?",
+   "score": 0.6256605386734009,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u24",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "How do I update the firmware on an SEL-751 feeder protection relay?",
+   "score": 0.6919101476669312,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u25",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How long should the closing spring of a Westinghouse DB-50 breaker take to charge?",
+   "score": 0.6490476727485657,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u26",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the rated voltage of an ABB VD4 vacuum circuit breaker?",
+   "score": 0.7472026944160461,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u27",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How do I precharge a Parker bladder hydraulic accumulator with nitrogen?",
+   "score": 0.6246615648269653,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u28",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "How much oil does a Hitachi 2500 kVA transformer hold?",
+   "score": 0.6335200667381287,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u29",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the maximum allowable shaft runout in mils for a Kaplan turbine?",
+   "score": 0.6809988021850586,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u30",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How do I program the speed reference on an Allen-Bradley PowerFlex 755 drive?",
+   "score": 0.6232497692108154,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u31",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the recommended storage temperature for lithium-ion UPS batteries?",
+   "score": 0.651370108127594,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u32",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What is the relief valve set pressure on an Ingersoll Rand 2545 compressor?",
+   "score": 0.736589789390564,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u33",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How do I replace the main contacts on a Schneider Masterpact NW breaker?",
+   "score": 0.7158223390579224,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u34",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What is the SF6 density alarm pressure for a Mitsubishi 245 kV gas insulated switchgear?",
+   "score": 0.7301638722419739,
+   "answer": "I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u35",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How many years does a Trojan T-105 flooded battery usually last?",
+   "score": 0.6828245520591736,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u36",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "How do I troubleshoot hunting in a Woodward UG-8 governor?",
+   "score": 0.6208415031433105,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u37",
+   "kind": "near_topic",
+   "split": "test",
+   "question": "What are the weekly maintenance tasks for an Otis Gen2 elevator?",
+   "score": 0.7135878205299377,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u38",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What is the maximum ground grid resistance allowed for a 500 kV substation?",
+   "score": 0.6889060139656067,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u39",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What NLGI grease grade is required for turbine guide bearings?",
+   "score": 0.704198956489563,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  },
+  {
+   "id": "u40",
+   "kind": "near_topic",
+   "split": "dev",
+   "question": "What is the required arc flash PPE category for racking in a 15 kV breaker?",
+   "score": 0.7089838981628418,
+   "answer": "(gate) I could not find this in the manuals.",
+   "unsupported": false
+  }
+ ]
+}

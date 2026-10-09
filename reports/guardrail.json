@@ -1,0 +1,88 @@
+{
+  "threshold": 0.7192836463451385,
+  "prompt": "technician",
+  "retrieval_config": "fixed500__bge-small",
+  "score_summary": {
+    "answerable_median": 0.7966616749763489,
+    "unanswerable_off_topic_median": 0.4833293706178665,
+    "unanswerable_near_topic_median": 0.6819116771221161
+  },
+  "gate_only": {
+    "dev": {
+      "answerable_declined": 0.05,
+      "unanswerable_declined": 0.95
+    },
+    "test": {
+      "answerable_declined": 0.03333333333333333,
+      "unanswerable_declined": 0.85
+    }
+  },
+  "setups": {
+    "baseline": {
+      "all": {
+        "n": 40,
+        "unsupported_answer_rate": 0.075
+      },
+      "dev": {
+        "n": 20,
+        "unsupported_answer_rate": 0.1
+      },
+      "test": {
+        "n": 20,
+        "unsupported_answer_rate": 0.05
+      },
+      "off_topic": {
+        "n": 10,
+        "unsupported_answer_rate": 0.1
+      },
+      "near_topic": {
+        "n": 30,
+        "unsupported_answer_rate": 0.06666666666666667
+      }
+    },
+    "prompt_only": {
+      "all": {
+        "n": 40,
+        "unsupported_answer_rate": 0.0
+      },
+      "dev": {
+        "n": 20,
+        "unsupported_answer_rate": 0.0
+      },
+      "test": {
+        "n": 20,
+        "unsupported_answer_rate": 0.0
+      },
+      "off_topic": {
+        "n": 10,
+        "unsupported_answer_rate": 0.0
+      },
+      "near_topic": {
+        "n": 30,
+        "unsupported_answer_rate": 0.0
+      }
+    },
+    "prompt_and_gate": {
+      "all": {
+        "n": 40,
+        "unsupported_answer_rate": 0.0
+      },
+      "dev": {
+        "n": 20,
+        "unsupported_answer_rate": 0.0
+      },
+      "test": {
+        "n": 20,
+        "unsupported_answer_rate": 0.0
+      },
+      "off_topic": {
+        "n": 10,
+        "unsupported_answer_rate": 0.0
+      },
+      "near_topic": {
+        "n": 30,
+        "unsupported_answer_rate": 0.0
+      }
+    }
+  }
+}

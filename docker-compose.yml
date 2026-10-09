@@ -1,0 +1,34 @@
+services:
+  ollama:
+    image: ollama/ollama:latest
+    volumes:
+      - ollama:/root/.ollama
+    ports:
+      - "11434:11434"
+
+  api:
+    build: .
+    environment:
+      OLLAMA_URL: http://ollama:11434
+      RAG_TEXT_MODEL: llama3.1:8b
+      RAG_VISION_MODEL: llava:7b
+    volumes:
+      - data:/app/data
+    ports:
+      - "8000:8000"
+    depends_on:
+      - ollama
+
+  ui:
+    build: .
+    command: streamlit run app/streamlit_app.py --server.port 8501 --server.address 0.0.0.0
+    environment:
+      RAG_API_URL: http://api:8000
+    ports:
+      - "8501:8501"
+    depends_on:
+      - api
+
+volumes:
+  ollama:
+  data:

@@ -1,0 +1,10 @@
+{
+  "note": "Hand labels for the 40 responses of the 'baseline' setup (minimal prompt, no instruction to decline). A response is labelled unsupported when, after or instead of saying the context lacks the answer, it offers substantive content that tries to answer the question about the asked item (a value, a procedure, a recommendation) and is not backed by the retrieved text. Every other response is a decline, including ones that point to other real passages or tell the reader to consult the manufacturer. The automatic phrase match in run_guardrail.py disagreed with these labels on u06 and u20 (it called them unsupported) and on u18, u24, u29, u36 (it called them declined); it agreed on u35.",
+  "baseline_unsupported": [
+    "u18",
+    "u24",
+    "u29",
+    "u35",
+    "u36"
+  ]
+}

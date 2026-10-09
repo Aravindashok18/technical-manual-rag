@@ -1,0 +1,40 @@
+{"id": "u01", "question": "What is the capital of Australia?", "kind": "off_topic", "terms": ["Canberra"]}
+{"id": "u02", "question": "How do I bake sourdough bread at home?", "kind": "off_topic", "terms": ["sourdough"]}
+{"id": "u03", "question": "Who won the 2018 FIFA World Cup?", "kind": "off_topic", "terms": ["World Cup"]}
+{"id": "u04", "question": "What is the best way to learn Spanish quickly?", "kind": "off_topic", "terms": ["Spanish"]}
+{"id": "u05", "question": "Explain how vaccines train the immune system.", "kind": "off_topic", "terms": ["vaccine"]}
+{"id": "u06", "question": "What is the plot of Shakespeare's Hamlet?", "kind": "off_topic", "terms": ["Hamlet"]}
+{"id": "u07", "question": "How many calories are in a banana?", "kind": "off_topic", "terms": ["banana"]}
+{"id": "u08", "question": "How do I reset the network settings on my smartphone?", "kind": "off_topic", "terms": ["smartphone"]}
+{"id": "u09", "question": "What is the boiling point of ethanol?", "kind": "off_topic", "terms": ["ethanol"]}
+{"id": "u10", "question": "Which laptop should I buy for video editing?", "kind": "off_topic", "terms": ["laptop"]}
+{"id": "u11", "question": "What is the recommended oil change interval for a Caterpillar C15 diesel engine?", "kind": "near_topic", "terms": ["C15", "Caterpillar"]}
+{"id": "u12", "question": "How do I clear fault code E-24 on a Siemens 3AP1 circuit breaker?", "kind": "near_topic", "terms": ["3AP1", "Siemens"]}
+{"id": "u13", "question": "What torque should be used on the cylinder head bolts of a Kohler 60 kW generator?", "kind": "near_topic", "terms": ["Kohler"]}
+{"id": "u14", "question": "What is the rated energy capacity of a Tesla Megapack battery?", "kind": "near_topic", "terms": ["Megapack", "Tesla"]}
+{"id": "u15", "question": "How often should wind turbine blades be inspected for lightning damage?", "kind": "near_topic", "terms": ["wind turbine"]}
+{"id": "u16", "question": "What is the correct tire pressure for a pneumatic forklift tire?", "kind": "near_topic", "terms": ["forklift"]}
+{"id": "u17", "question": "What is the maximum operating pressure of a Grundfos CR 32 pump?", "kind": "near_topic", "terms": ["Grundfos"]}
+{"id": "u18", "question": "How do I calibrate an ABB REL670 distance relay?", "kind": "near_topic", "terms": ["REL670", "ABB"]}
+{"id": "u19", "question": "What gap should the spark plug of a Honda EU7000 generator have?", "kind": "near_topic", "terms": ["Honda", "spark plug"]}
+{"id": "u20", "question": "How do I replace the filter cartridge on an Atlas Copco GA 37 compressor?", "kind": "near_topic", "terms": ["Atlas Copco"]}
+{"id": "u21", "question": "What is the trip curve of a Square D QO molded case circuit breaker?", "kind": "near_topic", "terms": ["Square D"]}
+{"id": "u22", "question": "What are the recommended settings for a GE Multilin 489 generator protection relay?", "kind": "near_topic", "terms": ["Multilin"]}
+{"id": "u23", "question": "What is the coolant capacity of a Cummins QSK50 engine?", "kind": "near_topic", "terms": ["Cummins"]}
+{"id": "u24", "question": "How do I update the firmware on an SEL-751 feeder protection relay?", "kind": "near_topic", "terms": ["SEL-751", "firmware"]}
+{"id": "u25", "question": "How long should the closing spring of a Westinghouse DB-50 breaker take to charge?", "kind": "near_topic", "terms": ["DB-50"]}
+{"id": "u26", "question": "What is the rated voltage of an ABB VD4 vacuum circuit breaker?", "kind": "near_topic", "terms": ["VD4"]}
+{"id": "u27", "question": "How do I precharge a Parker bladder hydraulic accumulator with nitrogen?", "kind": "near_topic", "terms": ["Parker", "bladder", "accumulator"]}
+{"id": "u28", "question": "How much oil does a Hitachi 2500 kVA transformer hold?", "kind": "near_topic", "terms": ["Hitachi"]}
+{"id": "u29", "question": "What is the maximum allowable shaft runout in mils for a Kaplan turbine?", "kind": "near_topic", "terms": ["Kaplan", "mils"]}
+{"id": "u30", "question": "How do I program the speed reference on an Allen-Bradley PowerFlex 755 drive?", "kind": "near_topic", "terms": ["PowerFlex"]}
+{"id": "u31", "question": "What is the recommended storage temperature for lithium-ion UPS batteries?", "kind": "near_topic", "terms": ["lithium"]}
+{"id": "u32", "question": "What is the relief valve set pressure on an Ingersoll Rand 2545 compressor?", "kind": "near_topic", "terms": ["Ingersoll"]}
+{"id": "u33", "question": "How do I replace the main contacts on a Schneider Masterpact NW breaker?", "kind": "near_topic", "terms": ["Masterpact", "Schneider"]}
+{"id": "u34", "question": "What is the SF6 density alarm pressure for a Mitsubishi 245 kV gas insulated switchgear?", "kind": "near_topic", "terms": ["Mitsubishi"]}
+{"id": "u35", "question": "How many years does a Trojan T-105 flooded battery usually last?", "kind": "near_topic", "terms": ["Trojan", "T-105"]}
+{"id": "u36", "question": "How do I troubleshoot hunting in a Woodward UG-8 governor?", "kind": "near_topic", "terms": ["Woodward", "UG-8"]}
+{"id": "u37", "question": "What are the weekly maintenance tasks for an Otis Gen2 elevator?", "kind": "near_topic", "terms": ["Otis", "Gen2"]}
+{"id": "u38", "question": "What is the maximum ground grid resistance allowed for a 500 kV substation?", "kind": "near_topic", "terms": ["ground grid", "500 kV"]}
+{"id": "u39", "question": "What NLGI grease grade is required for turbine guide bearings?", "kind": "near_topic", "terms": ["NLGI"]}
+{"id": "u40", "question": "What is the required arc flash PPE category for racking in a 15 kV breaker?", "kind": "near_topic", "terms": ["PPE category", "Category 4", "cal/cm"]}

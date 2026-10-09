@@ -1,0 +1,13 @@
+{"id": "d01", "question": "In the breaker control circuit test wiring diagram (Figure 2-1), which coil does the red Test Open lead connect to?", "keys": [["trip coil", "TC"]], "pages": [["FIST 3-16", 21]]}
+{"id": "d02", "question": "In the breaker control circuit test wiring diagram (Figure 2-1), which auxiliary contact is wired in series with the trip coil, 52a or 52b?", "keys": [["52a"]], "pages": [["FIST 3-16", 21]]}
+{"id": "d03", "question": "In the breaker timing test wiring diagram (Figure 2-3), what is measured by the clamp-on CT at the bottom left?", "keys": [["charging motor"]], "pages": [["FIST 3-16", 23]]}
+{"id": "d04", "question": "In the lockout relay red light circuit diagram (Figure 2), which component limits the current to the lockout coil?", "keys": [["resistor"]], "pages": [["FIST 3-8", 40]]}
+{"id": "d05", "question": "In the lockout relay red light circuit diagram (Figure 2), which lamp is wired in series with the resistor?", "keys": [["red"]], "pages": [["FIST 3-8", 40]]}
+{"id": "d06", "question": "In the direct current voltage test diagram for a potential transformer, which two terminals does the jumper wire at the top connect?", "keys": [["H1"], ["X1"]], "pages": [["FIST 3-8", 113]]}
+{"id": "d07", "question": "In the direct current voltage test diagram for a potential transformer, across which winding is the voltmeter connected?", "keys": [["secondary", "X1"]], "pages": [["FIST 3-8", 113]]}
+{"id": "d08", "question": "In the DC voltage polarity test for CTs (Figure E-8), which winding is the battery connected to?", "keys": [["secondary", "X1"]], "pages": [["FIST 3-8", 106]]}
+{"id": "d09", "question": "In the DC voltage polarity test for CTs (Figure E-8), which winding is the mA or mV meter connected across?", "keys": [["primary", "H1"]], "pages": [["FIST 3-8", 106]]}
+{"id": "d10", "question": "In the CT burden measurement diagram (Figure D-1), what formula is given for the external burden measured at V2?", "keys": [["V2/I"]], "pages": [["FIST 3-8", 96]]}
+{"id": "d11", "question": "In the CT burden measurement diagram (Figure D-1), which resistance is not included in the external burden?", "keys": [["internal"]], "pages": [["FIST 3-8", 96]]}
+{"id": "d12", "question": "In the vacuum circuit breaker figure (Figure 6-2), which part is labeled next to the moving-contact stem at the bottom of the vacuum bottle?", "keys": [["bellows"]], "pages": [["FIST 3-16", 54]]}
+{"id": "d13", "question": "In the vacuum circuit breaker figure (Figure 6-2), which part surrounds the contacts to catch metal vapor?", "keys": [["metal-vapor shield", "metal vapor shield", "vapor shield"]], "pages": [["FIST 3-16", 54]]}

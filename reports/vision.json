@@ -1,0 +1,197 @@
+{
+  "n": 13,
+  "text_model": "llama3.1:8b",
+  "vision_model": "llava:7b",
+  "text_only_accuracy": 0.7692307692307693,
+  "with_vision_accuracy": 0.7692307692307693,
+  "gold_page_retrieved": 0.9230769230769231,
+  "figure_page_is_gold": 0.6923076923076923,
+  "text_only": [
+    {
+      "id": "d01",
+      "answer": "According to Figure 2-1 in Manual FIST 3-16, p.21, the red Test Open lead connects to the Trip Coil (TC) in the breaker control circuit test wiring diagram.",
+      "correct": true,
+      "gold_page_retrieved": true,
+      "figure_page_is_gold": false
+    },
+    {
+      "id": "d02",
+      "answer": "I could not find this in the manuals.",
+      "correct": false,
+      "gold_page_retrieved": false,
+      "figure_page_is_gold": false
+    },
+    {
+      "id": "d03",
+      "answer": "According to Figure 2-3 in FIST 3-16, p.23, the clamp-on CT at the bottom left is measuring the current transformer (CT) secondary circuit.",
+      "correct": false,
+      "gold_page_retrieved": true,
+      "figure_page_is_gold": false
+    },
+    {
+      "id": "d04",
+      "answer": "According to FIST 3-8, p.40, the resistor limits the current to the lockout coil.",
+      "correct": true,
+      "gold_page_retrieved": true,
+      "figure_page_is_gold": true
+    },
+    {
+      "id": "d05",
+      "answer": "According to Figure 2 on page 40 of the FIST 3-8 manual, the amber lamp is wired in series with the resistor.",
+      "correct": true,
+      "gold_page_retrieved": true,
+      "figure_page_is_gold": true
+    },
+    {
+      "id": "d06",
+      "answer": "According to FIST 3-8, p.113, the jumper wire at the top connects to the H1 and X1 terminals.",
+      "correct": true,
+      "gold_page_retrieved": true,
+      "figure_page_is_gold": true
+    },
+    {
+      "id": "d07",
+      "answer": "According to FIST 3-8, p.113, the voltmeter is connected to the secondary winding.",
+      "correct": true,
+      "gold_page_retrieved": true,
+      "figure_page_is_gold": true
+    },
+    {
+      "id": "d08",
+      "answer": "According to Figure E-8 on page 105 of the FIST 3-8 manual, the battery is connected to the secondary winding, specifically terminal X1.",
+      "correct": true,
+      "gold_page_retrieved": true,
+      "figure_page_is_gold": true
+    },
+    {
+      "id": "d09",
+      "answer": "According to FIST 3-8, p.106, the mA or mV meter is connected across the primary winding of the CT.",
+      "correct": true,
+      "gold_page_retrieved": true,
+      "figure_page_is_gold": true
+    },
+    {
+      "id": "d10",
+      "answer": "According to FIST 3-8, p.96, the formula for the external burden measured at V2 is: External Burden = V2/I",
+      "correct": true,
+      "gold_page_retrieved": true,
+      "figure_page_is_gold": true
+    },
+    {
+      "id": "d11",
+      "answer": "According to the manual excerpt [FIST 3-8, p.96], the resistance that is not included in the external burden is R1, which is the CT internal burden.",
+      "correct": true,
+      "gold_page_retrieved": true,
+      "figure_page_is_gold": true
+    },
+    {
+      "id": "d12",
+      "answer": "According to FIST 3-16, p.54, the part labeled next to the moving-contact stem at the bottom of the vacuum bottle is the bellows.",
+      "correct": true,
+      "gold_page_retrieved": true,
+      "figure_page_is_gold": false
+    },
+    {
+      "id": "d13",
+      "answer": "I could not find this in the manuals.",
+      "correct": false,
+      "gold_page_retrieved": true,
+      "figure_page_is_gold": true
+    }
+  ],
+  "with_vision": [
+    {
+      "id": "d01",
+      "answer": "According to Figure 2-1 in Manual FIST 3-16, p.21, the red Test Open lead connects to the trip coil (TC) in the breaker control circuit test wiring diagram.",
+      "used_vision": true,
+      "correct": true
+    },
+    {
+      "id": "d02",
+      "answer": "According to the manual excerpts, the auxiliary contact wired in series with the trip coil in the breaker control circuit test wiring diagram (Figure 2-1) is indeed 52A.",
+      "used_vision": true,
+      "correct": true
+    },
+    {
+      "id": "d03",
+      "answer": "According to Figure 2-3 in FIST 3-16, p.23, the clamp-on CT at the bottom left measures the current in the circuit.",
+      "used_vision": true,
+      "correct": false
+    },
+    {
+      "id": "d04",
+      "answer": "According to FIST 3-8, p.40, the component that limits the current to the lockout coil is the resistor.",
+      "used_vision": true,
+      "correct": true
+    },
+    {
+      "id": "d05",
+      "answer": "According to the manual excerpt [FIST 3-8, p.40], the red lockout monitor light (i.e., \u201cLockout Armed\u201d in figure 2) is wired in series with the resistor.",
+      "used_vision": true,
+      "correct": true
+    },
+    {
+      "id": "d06",
+      "answer": "According to the manual excerpt [FIST 3-8, p.113], the jumper wire at the top of the diagram connects terminals H1 and X1 of the potential transformer.",
+      "used_vision": true,
+      "correct": true
+    },
+    {
+      "id": "d07",
+      "answer": "According to the manual, FIST 3-8, p.113, the voltmeter should be connected across the secondary winding of the potential transformer, not the primary winding.",
+      "used_vision": true,
+      "correct": true
+    },
+    {
+      "id": "d08",
+      "answer": "According to the manual, FIST 3-8, p.105, the battery is connected to the secondary winding, not the primary winding. The manual states: \"If the positive terminal of the battery is connected to the secondary terminal, X1...\"",
+      "used_vision": true,
+      "correct": true
+    },
+    {
+      "id": "d09",
+      "answer": "According to the manual, FIST 3-8, p.106, the mA or mV meter is connected across the primary winding of the CT.",
+      "used_vision": true,
+      "correct": true
+    },
+    {
+      "id": "d10",
+      "answer": "According to the manual, FIST 3-8, p.96, the formula for the external burden measured at V2 is:\n\nR_ext = V2/I\n\nThis is not the formula given in the diagram, but rather the formula given in the manual excerpt.",
+      "used_vision": true,
+      "correct": true
+    },
+    {
+      "id": "d11",
+      "answer": "According to the manual excerpt [FIST 3-8, p.96], the external burden does not include the CT internal burden, which is represented by R1.",
+      "used_vision": true,
+      "correct": true
+    },
+    {
+      "id": "d12",
+      "answer": "I could not find this in the manuals.",
+      "used_vision": true,
+      "correct": false
+    },
+    {
+      "id": "d13",
+      "answer": "I could not find this in the manuals.",
+      "used_vision": true,
+      "correct": false
+    }
+  ],
+  "llava_notes": {
+    "In the breaker control circuit test wiring diagram (Figure 2-1), which coil does the red Test Open lead connect to?": "The red Test Open lead connects to coil 2 in the breaker control circuit test wiring diagram.",
+    "In the breaker control circuit test wiring diagram (Figure 2-1), which auxiliary contact is wired in series with the trip coil, 52a or 52b?": "The auxiliary contact wired in series with the trip coil in the breaker control circuit test wiring diagram (Figure 2-1) is 52a.",
+    "In the breaker timing test wiring diagram (Figure 2-3), what is measured by the clamp-on CT at the bottom left?": "The clamp-on CT at the bottom left measures the current in the circuit.",
+    "In the lockout relay red light circuit diagram (Figure 2), which component limits the current to the lockout coil?": "The image shows a page from a manual with a diagram of a lockout relay circuit. The diagram includes a coil, a switch, and a relay. The component that limits the current to the lockout coil is the relay, which is connected to the switch and the coil. The relay acts as a switch that controls the flow of current to the coil.",
+    "In the lockout relay red light circuit diagram (Figure 2), which lamp is wired in series with the resistor?": "The image shows a page from a manual with a diagram of a lockout relay circuit. The diagram includes a lamp wired in series with a resistor. The lamp is connected to the circuit, and the resistor is also part of the circuit. The text on the page indicates that the lamp is wired in series with the resistor.",
+    "In the direct current voltage test diagram for a potential transformer, which two terminals does the jumper wire at the top connect?": "The jumper wire at the top of the diagram connects terminals 1 and 2 of the potential transformer.",
+    "In the direct current voltage test diagram for a potential transformer, across which winding is the voltmeter connected?": "The voltmeter is connected across the primary winding of the potential transformer.",
+    "In the DC voltage polarity test for CTs (Figure E-8), which winding is the battery connected to?": "The battery is connected to the primary winding in the DC voltage polarity test for CTs.",
+    "In the DC voltage polarity test for CTs (Figure E-8), which winding is the mA or mV meter connected across?": "The image shows a page from a manual with a figure labeled \"Figure E-8.\" The figure is a schematic diagram of a DC voltage polarity test for CTs. It includes a battery, a test meter, and a test lead. The test meter is connected across the positive terminal of the battery. The text on the page indicates that the test meter is used to measure the voltage polarity of the CTs. The diagram is a technical illustration, and the text provides instructions for the test.",
+    "In the CT burden measurement diagram (Figure D-1), what formula is given for the external burden measured at V2?": "The image shows a page from a manual with a figure labeled \"Figure D-1.\" The figure is a diagram of a CT burden measurement setup. The diagram includes various components such as a CT, a measurement device, and a power supply. There is a text box with a formula for the external burden measured at V2, which is given as R_ext = V2/V1. The text box also mentions that the external burden does not include the CT internal burden, and that the measurement device should be set to a specific range to measure the burden. The diagram also includes a note that the measurement device should be set to a specific range to measure the burden.",
+    "In the CT burden measurement diagram (Figure D-1), which resistance is not included in the external burden?": "The image shows a page from a manual with a figure labeled \"Figure D-1\". The figure is a diagram of a CT burden measurement setup. It includes various components such as a CT, a measurement device, and a power supply. The diagram also shows the connections between these components. However, without more context or a clearer image, it is not possible to determine which resistance is not included in the external burden as per the question.",
+    "In the vacuum circuit breaker figure (Figure 6-2), which part is labeled next to the moving-contact stem at the bottom of the vacuum bottle?": "The figure in the vacuum circuit breaker manual shows a vacuum bottle with a moving-contact stem at the bottom. The stem is labeled \"General\" in the image.",
+    "In the vacuum circuit breaker figure (Figure 6-2), which part surrounds the contacts to catch metal vapor?": "The image shows a page from a manual with a figure labeled \"Figure 6-2.\" The figure is a diagram of a vacuum circuit breaker. The diagram includes various components such as contacts, a spring, and a metal vapor catcher. The metal vapor catcher is located around the contacts to catch any metal vapor that may be generated during the operation of the circuit breaker."
+  }
+}

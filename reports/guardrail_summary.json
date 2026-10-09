@@ -1,0 +1,53 @@
+{
+  "baseline": {
+    "all": {
+      "n": 40,
+      "unsupported": 5,
+      "rate": 0.125
+    },
+    "off_topic": {
+      "n": 10,
+      "unsupported": 0,
+      "rate": 0.0
+    },
+    "near_topic": {
+      "n": 30,
+      "unsupported": 5,
+      "rate": 0.16666666666666666
+    }
+  },
+  "prompt_only": {
+    "all": {
+      "n": 40,
+      "unsupported": 0,
+      "rate": 0.0
+    },
+    "off_topic": {
+      "n": 10,
+      "unsupported": 0,
+      "rate": 0.0
+    },
+    "near_topic": {
+      "n": 30,
+      "unsupported": 0,
+      "rate": 0.0
+    }
+  },
+  "prompt_and_gate": {
+    "all": {
+      "n": 40,
+      "unsupported": 0,
+      "rate": 0.0
+    },
+    "off_topic": {
+      "n": 10,
+      "unsupported": 0,
+      "rate": 0.0
+    },
+    "near_topic": {
+      "n": 30,
+      "unsupported": 0,
+      "rate": 0.0
+    }
+  }
+}
